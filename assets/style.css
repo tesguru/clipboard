@@ -245,21 +245,22 @@ gap: 70px;
      .button-1{
       border-radius: 20px;
       background-color: hsl(171, 66%, 44%);
-      padding: 10px;
+      padding: 12px 6px;
       margin-right: 0;
       border: none;
       box-shadow: 1px 3px hsl(171, 66%, 30%);
       font-weight: bold;
       font-size: 14px;
       width: 40%;
+      margin-bottom: 20px;
   }
   .button-2{
       border-radius: 20px;
       background-color: hsl(233, 100%, 69%);
-      padding: 10px;
+      padding: 12px 6px;
       margin-left: 0;
       border: none;
-      margin-top: 20px;
+     
       box-shadow: 1px 3px hsl(233, 100%, 60%);
      width: 40%;
       font-weight: bold;
@@ -375,12 +376,20 @@ align-items: center;
         padding-right: 0; 
       }
       .img-footer{
+       text-align: center;
         padding-left: 0;
+       
+       
+      }
+      .img-footer2{
+        text-align: center;
+        margin-right: 12px;
       }
       
       .spanner{
         text-align: center;
         padding-bottom: 9px;
+        margin-right: 17px;
       }
       
       
