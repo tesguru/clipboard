@@ -12,12 +12,6 @@ header{
 text-align: center;
 }
 
-.button-1:hover {
-  padding:10px 40px;
-}
-.button-2:hover{
-  padding:10px 40px;
-}
 
 
 
@@ -199,20 +193,6 @@ gap: 70px;
 }
 .social:hover{
   color:rgb(8, 125, 8) ;
-}
-.social img {
-  height: 20px;
-  fill: red;
-}
-.svg-fill {
-  fill: red; /* Use 'fill' property instead of 'color' property for SVG */
-}
-.icon-facebook {
-  fill: red; /* Use 'fill' property to set the desired color */
-}
-#colorFill{
-  color: red;
-  background-color: red;
 }
 
   
@@ -397,5 +377,11 @@ align-items: center;
       .img-footer{
         padding-left: 0;
       }
+      
+      .spanner{
+        text-align: center;
+        padding-bottom: 9px;
+      }
+      
       
 }
